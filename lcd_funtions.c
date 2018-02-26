@@ -1,5 +1,5 @@
 #include "stm32l433xx.h"
-#include "config.h"
+
 void Cursor_To_Second_Row(void)
 {
 	
